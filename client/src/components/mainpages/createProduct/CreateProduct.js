@@ -8,8 +8,8 @@ const initialState = {
     product_id: '',
     title: '',
     price: 0,
-    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
-    content: 'Welcome my Name is Damilola Babalola and i am good at programming, Am the best ever.',
+    description: 'I am a Tech Savy person and a Professional Software Developer/ Engineer with Several years of experiences spanning across many industries. I am seeking for more exposures in the software development industry, hence will be glad to join any organization seeking for my skillset to achieving corperate goals, client satisfaction and my personal development. I am Professionally into: Software Engineering and Development Backend(MAJOR): PHP,NodeJS, Front End: Bootstrap,React Databases:Mongo DB,MYSQL,.',
+    content: 'Welcome, my Name is Damilola Babalola Micheals and i am good at programming, Am the best ever.',
     category: '',
     _id: ''
 }
