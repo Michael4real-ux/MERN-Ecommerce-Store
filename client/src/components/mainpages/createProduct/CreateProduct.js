@@ -8,8 +8,8 @@ const initialState = {
     product_id: '',
     title: '',
     price: 0,
-    description: 'How to and tutorial videos of cool CSS effect, Web Design ideas,JavaScript libraries, Node.',
-    content: 'Welcome to our channel Dev AT. Here you can learn web designing, UI/UX designing, html css tutorials, css animations and css effects, javascript and jquery tutorials and related so on.',
+    description: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.',
+    content: 'Welcome my Name is Damilola Babalola and i am good at programming, Am the best ever.',
     category: '',
     _id: ''
 }
